@@ -17,6 +17,8 @@ Nome dos integrantes:
 
 Link do Surge: https://special-rake.surge.sh/
 
+Link original do projeto: https://github.com/future4code/Moreira-pokedex1
+
 O que funciona:
 
 Renderização dos 20 primeiros pokemons na tela Home;
